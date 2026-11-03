@@ -115,3 +115,9 @@ Double Nipple 0.7.x または Double Front Hole 0.4.0 から移行する場合�
 ### ライセンス
 
 Nanashi-187 Non-Commercial No-Derivatives Software License 1.0。詳細は `LICENSE` を参照してください。
+
+## License Update 1.1 / ライセンス更新 1.1
+
+The current license is now **Nanashi-187 Non-Commercial No-Derivatives Software License 1.1**, which replaces references to version 1.0 elsewhere in this README. Version 1.1 adds restrictions on scraping, text and data mining, and AI or machine learning training. See `LICENSE` for the complete terms.
+
+現在のライセンスは **Nanashi-187 Non-Commercial No-Derivatives Software License 1.1** です。本 README 内のバージョン 1.0 への言及は 1.1 に置き換えられます。バージョン 1.1 では、スクレイピング、テキスト・データマイニング、AI・機械学習の学習への利用に関する制限を追加しました。完全な条件は `LICENSE` を参照してください。
